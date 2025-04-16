@@ -1,4 +1,4 @@
 # Machine_Learning
-Basic Machine Learning codes
-Run in Juypter
-Extension=".ipynb"
+1).Basic Machine Learning codes
+2).Run in Juypter
+3).Extension=".ipynb"
